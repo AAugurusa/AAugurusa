@@ -5,6 +5,5 @@ I’m **Agustín Augurusa**, a **Software Engineering** student at **Universidad
 🌍 Currently residing in Argentina.
 
 📫 How to reach me:  
-- Email: agustin.augurusa@gmail.com  
-- LinkedIn: [Agustín Augurusa](https://linkedin.com/in/agustin-augurusa)  
-- GitHub: [AgustinAugurusa](https://github.com/AgustinAugurusa)
+- Email: augurusaagustin@gmail.com  
+- LinkedIn: [Agustín Augurusa](https://www.linkedin.com/in/agustin-augurusa-167960220/)
