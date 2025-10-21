@@ -1,5 +1,5 @@
 🎓 **About Me**  
-I’m **Agustín Augurusa**, a **Software Engineering** student at **Universidad Austral**.
+I’m **Agustín Augurusa**, a **Software Engineering**.
 
 🌍 Currently residing in Argentina.
 
