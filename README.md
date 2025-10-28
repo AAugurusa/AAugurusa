@@ -1,4 +1,4 @@
-🎓 **About Me**  
+**About Me**  
 I’m **Agustín Augurusa**, a **Software Engineering**.
 
 🌍 Currently residing in Argentina.
